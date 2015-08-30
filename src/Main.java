@@ -1,4 +1,4 @@
-// Written by Bryan Owens, 8/15/2015
+// Written by BryanOwens012, 8/29/2015
 
 import java.util.Scanner;
 
